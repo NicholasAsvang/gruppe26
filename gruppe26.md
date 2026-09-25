@@ -103,4 +103,3 @@ Helsedirektoratet (2025, 4.Desember) Relasjonskontrakter – hva, hvorfor, når 
 
 Rolstadås, Å. (2025, 30.juni). Prosjektplanlegging. Store norske leksikon. https://snl.no/prosjektplanlegging 
 
-Jacobsen, D. (2016), Engangsorganisasjonen (1. Utg), Fagbokforlaget 
