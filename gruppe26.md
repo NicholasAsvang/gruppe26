@@ -102,4 +102,3 @@ Jacobsen, D. (2016), Engangsorganisasjonen (1. Utg), Fagbokforlaget
 Helsedirektoratet (2025, 4.Desember) Relasjonskontrakter – hva, hvorfor, når og hvordan?  https://www.helsedirektoratet.no/rapporter/formelle-relasjonskontrakter-ved-anskaffelse-av-e-helselosninger/relasjonskontrakter--hva-hvorfor-nar-og-hvordan 
 
 Rolstadås, Å. (2025, 30.juni). Prosjektplanlegging. Store norske leksikon. https://snl.no/prosjektplanlegging 
-
