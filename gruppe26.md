@@ -1,3 +1,6 @@
+## Gruppeinnlevering 1 - IS-118
+Gruppe 26: Sondre Holm, Quan Anh Doan, Nicholas Åsvang, Tor Ivar Jørgensen
+
 ## Strategi for rekruttering og sammensetning
 Jacobsen (2016 s. 32) beskriver 4 sentrale roller et team bør dekke: Produksjon, Integrasjon, Entreprenørskap og Administrasjon. Produksjon handler om å få oppgaven gjort. Integrasjon er samhold og gode relasjoner. Entreprenørskapsdelen er å se muligheter og å orientere gruppen basert på omgivelsene og administrasjon handler om dokumentasjon, struktur, frister og oppfølgning. Om disse rollene ikke er sterkt dekket vil et team av ellers sterke fagpersoner fungere dårlig. Det er derfor viktig da du rekrutterer, og tenke på hvilken rolle fagpersonen skal dekke i teamet. 
 
@@ -6,6 +9,35 @@ I Erling sitt team består produksjonen av UI/UX designeren, IT avdelingen og di
 Det kan være vanskeligheter for teamet til Erling å møtes ansikt til ansikt på grunn av gruppens størrelse. Ifølge Jacobsen (2016, s. 35) blir det allerede ved 6–8 medlemmer vanskelig å opprettholde en direkte ansikt-til-ansikt kommunikasjon mellom medlemmene, noe som gjør koordinering og samarbeid vanskeligere. Når en gruppe blir større, øker også de mulige kommunikasjonskanalene eksponentielt. Konkret betyr dette at i en gruppe på 4 medlemmer er det 6 mulige kanaler, i en gruppe på 5 øker dette til 9, mens en gruppe på 6 må forholde seg til 14 kanaler. Siden Erlings team består av 7–8 medlemmer, vil antallet kommunikasjonskanaler være enda høyere, noe som øker risikoen for økt konfliktnivå og at enkelte medlemmer sniker seg unna ansvar, kjent som «social loafing». Som nevnt tidligere er det svært viktig å dekke de fire funksjonelle rollene i et team, og vår anbefaling til Erling er derfor å ikke redusere antall gruppemedlemmer for å unngå risikoen for at rollene ikke blir dekket. Et forslag som kan hjelpe Erlings team med å holde kontakten til tross for disse komplikasjonene, er å benytte nettmøter, siden dette senker terskelen for å møtes jevnlig uten at reisetid blir en hindring. 
 
 Selv om mangfold i teamroller er viktig, er det også en risiko forbundet med for stor ulikhet i bakgrunn og erfaring. Erlings team består av svært ulike aktører, som for eksempel kommunalt ansatte, en politisk rådgiver, eksterne konsulenter og innbyggerrepresentanter med få naturlige likhetspunkter å bygge tillit på i utgangspunktet. Man bygger lettere tillit til en person man opplever som lik seg selv (Jacobsen, 2016. s.34), og det er lettere å bygge naturlige relasjoner dersom man naturlig velger å snakke sammen, fremfor at det blir påtvunget. Derfor bør Erling sette av tid til pseudo-arbeid, slik at teamet naturlig kan bli bedre kjent og bygge tillit til hverandre, uavhengig av de faglige og organisatoriske forskjellene mellom dem. 
+
+## Design av det første møtet
+Oppstartsmøtet for prosjektet bør designes for å oppnå to mål. Det er å ha en felles forståelse av mål og arbeidsfordeling, men også ha relasjonsbygging innad i teamet. Som er svært viktig siden de har aldri jobbet sammen før. Og fagfeltene er såpass forskjellig. Forslaget er en heldagssamling på rundt seks timer. 
+
+Dagen burde starte med at Erling går gjennom prosjektet i detalj som portalen, tidsrammen som er på 15 måneder, budsjettet på 8 millioner og sluttmålet om å få 20% økt engasjement. Denne presentasjonen burde fortelle i detalj hensikten med prosjektet og gjøre det meningsfullt. Deretter kan de andre komme med spørsmål og bekymringer til prosjektet. Ikke alle spørsmål trengs å svares på umiddelbart, men kan skrives opp å bli tatt opp igjen på en senere tid.  
+
+Så kommer kanskje den viktigste fasen av dagen, å bli kjent med hverandre. Altså det som ofte kalles for tomprat eller mer rettere sagt pseudo arbeid. Denne slags arbeid er svært viktig for å bygge tillit til hverandre, selv om disse aktivitetene gjerne ikke gi et direkte resultater for prosjektet. En måte man kan bli kjent på er hvis det går en runde hvor alle presenterer seg. I presentasjonen kan de fortelle enkelt om hvem de er og rollen deres, hva forventingene deres er og til slutt hva de bekymrer seg for. Å snakke tidlig om hva de bekymrer seg for, kan være med på å lette på spenningen. Men kan også være med på å se problemer som kan oppstå senere i prosessen. En annen metode som er lurt å bruke for å få en fellesforståelse for prosjektet er LEAN metoden. Denne arbeidsmåten er med på å gi en oversikt over prosjektet og tidsrammen. Der man starter med hva man ønsker og oppnå og går fra slutten til starten i prosjekttidslinjen. LEAN metoden hjelper med å finne konkrete risikoer, får alle til å føle at de er med og har en rolle i prosjektet.  (Jacobsen, 2016, s.38). Fellesforståelsen for prosjektet er viktig er bygges videre senere i fasen, men et godt grunnlag øker sjansen for bra teamwork. 
+
+Å ha en oppstarts dag som denne koster lite, og har stort utbytte for risikoene som kan komme senere i prosjektet. Ved å ha en tydelig ledelse fra Erling, men også ha den uformelle relasjonsbyggingen ved hjelp av pseudo arbeid og LEAN-planleggingen. Dette er en god måte på å få et solid grunnlag for prosjektet. 
+
+Jacobsen, D. (2016), Engangsorganisasjonen (1. Utg), Fagbokforlaget 
+
+## Håndtering av tidspress og "planleggingsfellen":
+En enkel felle å havne i et prosjekt er at man ikke setter av nok tid til å etablere gode planer og relasjoner innad i gruppen. Et eksempel på hvorfor dette skjer er tidspresset. Mange prosjektledere opplever at det er en mangel på tid og ressurser. Dette pluss naturen til prosjektet, med at det har et klart mål og avslutningspunkt. Som har en sterk psykologisk virkning. En som får prosjektlederen til å tenke mer på fremtiden enn nåtiden. For nåtid aktivitene vil plutselig virkes som mindre viktig. Derfor kan det være lurt å sette seg SMARTe mål, som står for Spesifikke, målbare, aksepterte, realistiske, tidsbegrensede. 
+
+Spesifikke – Klare mål som forstås av alle i gruppen 
+
+Målbare – målene kan slås fast om de er nådd eller feilet 
+
+Aksepterte – Alle i gruppen er enige med målene 
+
+Realistiske – målene er mulig å gjøre med de ressursene som er gitt og tidsrommet 
+
+Tidsbegrensede – Ha en klar tidsramme 
+
+Og ha slike konkrete mål gjør det lettere og mer motiverende til å starte på arbeidet. Selv med de klare målene er fort gjort å falle for tidspress. Tidsfristen kan få det til å føles ut som man må haste seg. Men selv med god planlegging er det lett å havne i det som kan kalles for planleggingsfellen. Det er at man har en tendens til å undervurdere tiden for prosjektet, selv etter hvor godt teamet er. En grunn for dette er hvor tidligere man er i prosjektet, desto mer usikker er man. Så i starten når man er mest usikker, er det da Erling må ta de viktigste beslutningene. Denne usikkerheten er viktig å tenke på, siden man må være obs på endringer som kan skje i senere tid. Det er hva vi kaller for planlegginsparadokset. At man må balansere tanken om å ha en god plan men også være fleksibel. For en del studier har vist at grupper som planlegger for godt, har en tendens til å ikke gi slipp på den. Men en for åpen plan igjen kan gi større problemer, hvor det mangles motivasjon og frustrasjon siden en ikke vet når ting skal være klart til. En god måte på å ha en god kurs er ved å ha direkte kommunikasjon mellom alle parter. Noen eksempler på dette kan være fysiske møter eller tekniske hjelpemidler. 
+
+Jacobsen, D. (2016), Engangsorganisasjonen (1. Utg), Fagbokforlaget
+
 ## Sikring av god kommunikasjon
 Erling bør sørge for at alle stemmer blir hørt likt. Ifølge Alex Pentland (2012) er likestilling i kommunikasjon en av de viktigste faktorene for velfungerende team, og som prosjektleder bør Erling se helhetlig på gruppen fremfor å prioritere enkeltindivider. 
 
