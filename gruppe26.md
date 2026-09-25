@@ -19,8 +19,6 @@ Så kommer kanskje den viktigste fasen av dagen, å bli kjent med hverandre. Alt
 
 Å ha en oppstarts dag som denne koster lite, og har stort utbytte for risikoene som kan komme senere i prosjektet. Ved å ha en tydelig ledelse fra Erling, men også ha den uformelle relasjonsbyggingen ved hjelp av pseudo arbeid og LEAN-planleggingen. Dette er en god måte på å få et solid grunnlag for prosjektet. 
 
-Jacobsen, D. (2016), Engangsorganisasjonen (1. Utg), Fagbokforlaget 
-
 ## Rammer for relasjonelle kontrakter: 
 I mange prosjekter blir det ofte brukt jerntriangelen i prosjekt planleggings fasen for å ha en oversikt over de 3 styrings parameterne som er arbeidsomfang, kostnad og tid.  Denne triangelen skal vise hvordan de 3 planene påvirker hverandre (SNL 2025). Men selv om jerntriangelen er viktig for å styre det mer tekniske med prosjektet viser det ikke til folket og hvordan de skal samarbeide.  Spesielt siden gruppene i Erling sitt prosjekt har så mange forskjellige roller og kulturer så er det viktig at han lager gode relasjonelle kontrakter. 
 
@@ -83,4 +81,26 @@ Det nevnes og at et sted med rom for forbedring, vil være å få inn en enda be
 
 Erfaring og råd for fremtidig prosjektarbeid.  
 
-Det oppstod innledningsvis en utfordring med et gruppemedlem som ikke var tilgjengelig, bidro, eller var sikker på om hen skulle studere videre. Da dette var i fasen der kontraktens innhold skulle ferdigstilles, opplevdes det som et hinder at det ene gruppemedlemmet ikke kommuniserte. Utfordringen ble forsøkt løst på lavest mulig nivå, og det opplevedes som om resten av gruppen var ytterst løsningsorienterte. Da det ikke gav noen resultater, måtte saken eskaleres, og det endte med at vi ble et medlem mindre.  Dette kan antas og ha hatt en samlende effekt på gruppen som vi tar med oss videre.  
+Det oppstod innledningsvis en utfordring med et gruppemedlem som ikke var tilgjengelig, bidro, eller var sikker på om hen skulle studere videre. Da dette var i fasen der kontraktens innhold skulle ferdigstilles, opplevdes det som et hinder at det ene gruppemedlemmet ikke kommuniserte. Utfordringen ble forsøkt løst på lavest mulig nivå, og det opplevedes som om resten av gruppen var ytterst løsningsorienterte. Da det ikke gav noen resultater, måtte saken eskaleres, og det endte med at vi ble et medlem mindre.  Dette kan antas og ha hatt en samlende effekt på gruppen som vi tar med oss videre.
+
+## Referanse
+
+Scrum Alliance (n.d). Signs of conflict within an agile team. Hentet 24. september 2026. https://resources.scrumalliance.org/Article/signs-of-conflict-within-an-agile-team 
+
+Vain, C. (2025, 25. Februar). Preventing conflicts before they escalate. CDP Online College. https://cpdonline.co.uk/knowledge-base/business/preventing-conflicts/ 
+
+Hårberg, G.B., & Paulsen, T.M. (2026, 27.april) Modeller for konflikthåndtering. NDLA. https://ndla.no/nb/r/kommunikasjon-og-samhandling-hs-hsf-vg1/modeller-for-konflikthandtering/0d74ec1ef5
+
+Børtnes, T. (2014, 14.juli). Megling – En effektiv metode. Arbeidsmiljø.no. https://www.arbeidsmiljo.no/artikler/megling-en-effektiv-metode/ 
+
+Pentland, A. (2012). The new science of building great teams. Harvard Business Review, 90(4), 60–69.
+
+Gjøsund, P, & Huseby, R. (2023). To eller flere... Basiskunnskaper i gruppepsykologi (4. utg.). Cappelen damm akademisk
+
+Jacobsen, D. (2016), Engangsorganisasjonen (1. Utg), Fagbokforlaget
+
+Helsedirektoratet (2025, 4.Desember) Relasjonskontrakter – hva, hvorfor, når og hvordan?  https://www.helsedirektoratet.no/rapporter/formelle-relasjonskontrakter-ved-anskaffelse-av-e-helselosninger/relasjonskontrakter--hva-hvorfor-nar-og-hvordan 
+
+Rolstadås, Å. (2025, 30.juni). Prosjektplanlegging. Store norske leksikon. https://snl.no/prosjektplanlegging 
+
+Jacobsen, D. (2016), Engangsorganisasjonen (1. Utg), Fagbokforlaget 
