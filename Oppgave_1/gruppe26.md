@@ -1,3 +1,6 @@
+## Gruppeinnlevering 1 - IS-118
+Gruppe 26: Sondre Holm, Quan Anh Doan, Nicholas Åsvang, Tor Ivar Jørgensen
+
 ## Strategi for rekruttering og sammensetning
 Jacobsen (2016 s. 32) beskriver 4 sentrale roller et team bør dekke: Produksjon, Integrasjon, Entreprenørskap og Administrasjon. Produksjon handler om å få oppgaven gjort. Integrasjon er samhold og gode relasjoner. Entreprenørskapsdelen er å se muligheter og å orientere gruppen basert på omgivelsene og administrasjon handler om dokumentasjon, struktur, frister og oppfølgning. Om disse rollene ikke er sterkt dekket vil et team av ellers sterke fagpersoner fungere dårlig. Det er derfor viktig da du rekrutterer, og tenke på hvilken rolle fagpersonen skal dekke i teamet. 
 
@@ -6,6 +9,51 @@ I Erling sitt team består produksjonen av UI/UX designeren, IT avdelingen og di
 Det kan være vanskeligheter for teamet til Erling å møtes ansikt til ansikt på grunn av gruppens størrelse. Ifølge Jacobsen (2016, s. 35) blir det allerede ved 6–8 medlemmer vanskelig å opprettholde en direkte ansikt-til-ansikt kommunikasjon mellom medlemmene, noe som gjør koordinering og samarbeid vanskeligere. Når en gruppe blir større, øker også de mulige kommunikasjonskanalene eksponentielt. Konkret betyr dette at i en gruppe på 4 medlemmer er det 6 mulige kanaler, i en gruppe på 5 øker dette til 9, mens en gruppe på 6 må forholde seg til 14 kanaler. Siden Erlings team består av 7–8 medlemmer, vil antallet kommunikasjonskanaler være enda høyere, noe som øker risikoen for økt konfliktnivå og at enkelte medlemmer sniker seg unna ansvar, kjent som «social loafing». Som nevnt tidligere er det svært viktig å dekke de fire funksjonelle rollene i et team, og vår anbefaling til Erling er derfor å ikke redusere antall gruppemedlemmer for å unngå risikoen for at rollene ikke blir dekket. Et forslag som kan hjelpe Erlings team med å holde kontakten til tross for disse komplikasjonene, er å benytte nettmøter, siden dette senker terskelen for å møtes jevnlig uten at reisetid blir en hindring. 
 
 Selv om mangfold i teamroller er viktig, er det også en risiko forbundet med for stor ulikhet i bakgrunn og erfaring. Erlings team består av svært ulike aktører, som for eksempel kommunalt ansatte, en politisk rådgiver, eksterne konsulenter og innbyggerrepresentanter med få naturlige likhetspunkter å bygge tillit på i utgangspunktet. Man bygger lettere tillit til en person man opplever som lik seg selv (Jacobsen, 2016. s.34), og det er lettere å bygge naturlige relasjoner dersom man naturlig velger å snakke sammen, fremfor at det blir påtvunget. Derfor bør Erling sette av tid til pseudo-arbeid, slik at teamet naturlig kan bli bedre kjent og bygge tillit til hverandre, uavhengig av de faglige og organisatoriske forskjellene mellom dem. 
+
+## Design av det første møtet
+Oppstartsmøtet for prosjektet bør designes for å oppnå to mål. Det er å ha en felles forståelse av mål og arbeidsfordeling, men også ha relasjonsbygging innad i teamet. Som er svært viktig siden de har aldri jobbet sammen før. Og fagfeltene er såpass forskjellig. Forslaget er en heldagssamling på rundt seks timer. 
+
+Dagen burde starte med at Erling går gjennom prosjektet i detalj som portalen, tidsrammen som er på 15 måneder, budsjettet på 8 millioner og sluttmålet om å få 20% økt engasjement. Denne presentasjonen burde fortelle i detalj hensikten med prosjektet og gjøre det meningsfullt. Deretter kan de andre komme med spørsmål og bekymringer til prosjektet. Ikke alle spørsmål trengs å svares på umiddelbart, men kan skrives opp å bli tatt opp igjen på en senere tid.  
+
+Så kommer kanskje den viktigste fasen av dagen, å bli kjent med hverandre. Altså det som ofte kalles for tomprat eller mer rettere sagt pseudo arbeid. Denne slags arbeid er svært viktig for å bygge tillit til hverandre, selv om disse aktivitetene gjerne ikke gi et direkte resultater for prosjektet. En måte man kan bli kjent på er hvis det går en runde hvor alle presenterer seg. I presentasjonen kan de fortelle enkelt om hvem de er og rollen deres, hva forventingene deres er og til slutt hva de bekymrer seg for. Å snakke tidlig om hva de bekymrer seg for, kan være med på å lette på spenningen. Men kan også være med på å se problemer som kan oppstå senere i prosessen. En annen metode som er lurt å bruke for å få en fellesforståelse for prosjektet er LEAN metoden. Denne arbeidsmåten er med på å gi en oversikt over prosjektet og tidsrammen. Der man starter med hva man ønsker og oppnå og går fra slutten til starten i prosjekttidslinjen. LEAN metoden hjelper med å finne konkrete risikoer, får alle til å føle at de er med og har en rolle i prosjektet.  (Jacobsen, 2016, s.38). Fellesforståelsen for prosjektet er viktig er bygges videre senere i fasen, men et godt grunnlag øker sjansen for bra teamwork. 
+
+Å ha en oppstarts dag som denne koster lite, og har stort utbytte for risikoene som kan komme senere i prosjektet. Ved å ha en tydelig ledelse fra Erling, men også ha den uformelle relasjonsbyggingen ved hjelp av pseudo arbeid og LEAN-planleggingen. Dette er en god måte på å få et solid grunnlag for prosjektet. 
+
+## Rammer for relasjonelle kontrakter: 
+I mange prosjekter blir det ofte brukt jerntriangelen i prosjekt planleggings fasen for å ha en oversikt over de 3 styrings parameterne som er arbeidsomfang, kostnad og tid.  Denne triangelen skal vise hvordan de 3 planene påvirker hverandre (SNL 2025). Men selv om jerntriangelen er viktig for å styre det mer tekniske med prosjektet viser det ikke til folket og hvordan de skal samarbeide.  Spesielt siden gruppene i Erling sitt prosjekt har så mange forskjellige roller og kulturer så er det viktig at han lager gode relasjonelle kontrakter. 
+
+Ifølge Helsedirektoratet er relasjonelle kontrakter en juridisk avtale mellom to eller flere parter, hvor de danner en kommersiell partner skap samtidig som de blir enige om sosiale normer og hvordan de skal samarbeide. Videre deler Helsedirektoratet også relasjonelle kontrakter i 2 sider den skriftlige og det sosiale (Helsedirektoratet 2025).  
+
+For å skape noen gode rammer for relasjon kontrakter kan Erling først begynne med å etablere et partnerskap. Siden det er forskjellige interesser i gruppen så handler dette om at Erling må bruke partnerskap for å støtte og holde opp hverandre sine interesser og forventninger. Dette er noe han kan gjøre ved å skape felles mål mellom avdelingene, lage strukturer og styringsprosesser blant annet. Disse strukturene kan være så lett som hvordan gruppene skal kommunisere, hvordan problemer kan løses underveis i prosjektet (Helsedirektoratet 2025). 
+
+Videre så burde Erling også sørge for at det blir dannet sosiale normer som skal hjelpe samarbeidet. Oftest så blir dette bygd på normale normer som ærlighet og lojalitet, samtidig som det også er viktig at partene er villig til å gi og ta (Helsedirektoratet 2025). Dette er normer som allerede kan bli diskutert under oppstartmøte som ble snakket om i oppgave 2. Her får laget tid til å bli kjent med hverandre som de lager normene. Dette hjelper både ved at alle i laget ved hva disse normene er, men også at alle var sammen med å lage dem som gjør det lettere å følge dem gjennom prosjektet. 
+
+## Proaktiv mekanismer for konflikthåndtering:
+I et slikt prosjekt som Erling har ansvar for er det ingen tvil om at det kommer konflikter spesielt siden det er et tverrfaglig prosjekt som inneholder medlemmer fra forskjellige grupper. Siden representanter fra kommuneavdelingen skal samarbeide tett med en politisk rådgiver, eksterne fagspesialister innenfor UX/UI design og data sikkerhet samtidig som de må ta hensyn til brukerrepresentanter sine interesser. Dette kan lett før til problemer fordi disse gruppene har forskjellige prioriteringer. Derfor er det viktig at Erling tar tiltak med proaktive mekanismer for konflikthåndtering så det ikke eskalerer til noe større.
+
+Dersom en går gjennom NDLA sine modeller for konflikthåndtering fins det mange teknikker for å håndtere problemer, men den beste teknikken er den du ikke trenger å bruke. En artikkel fra CPD Online College skrevet av Claire vain viser til flere metoder Erling kan bruke for å skape et miljø som kan forebygge konflikter før de oppstår (Vain, 2025). Først av alt så burde Erling skape et miljø der alle kan utrykke seg selv fritt ved å bygge rom for åpen dialog mellom avdelingene. Dette er særlig viktig i Erlings team. Siden ulik status, fagbakgrunn og verdisyn mellom for eksempel den politiske rådgiveren, IT avdelingen og de eksterne fagspesialistene er en vanlig kilde til konflikt i tverrfaglige grupper. Videre så burde Erling lage tydelige forventninger til alle grupper så det ikke blir forvirrelse eller forventinger som ikke blir møtt mellom lagmedlemmene. Det er også viktig at Erling etablerer spilleregler eller retningslinjer for hvordan konflikter skal bli håndtert dersom det først skal oppstå. Dette hjelper ved å lage prosedyrer som alle kan følge så problemet ikke eskalerer videre
+
+Selv om åpen dialog, tydelige forventninger og retningslinjer er viktig for å forebygge uenigheter er det ikke helt sikkert at disse metodene virker. Hvis det skal oppstå uenigheter der avdelingene ikke kan komme til enighet kan Erling gå til en av NDLA sine metoder. En effektiv konflikthåndterings metode han kan ta i bruk er noe som kalles for megling (Hårberg & Paulsen, 2026). Dette innebærer å finne en nøytral tredje-parti som har rolle om å få gruppene til å lytte til hverandre og finne en løsning på konflikten sammen. Grunnen til at dette er en bra metode er fordi det er en frivillig prosess så partene som deltar har lov til å si nei til forslag de ikke vil akseptere som gjør at partene ikke føler at det er en løsning som blir tvunget på dem, men heller noe de kommer sammen i enighet om (Børtnes, 2014).
+
+Til slutt så burde Erling være observant og ha rutiner for å identifisere konflikt før det skjer. Ifølge Scrum Alliance kan tegn som at laget deler mindre informasjon eller er stille ved møter, passiv aggressive oppførsel og bare generelt mer irritert stemning enn vanlig være tegn på underliggende konflikt (Scrum Alliance n,d). Men ved å følge med på slike signaler kan Erling fange opp konflikt før det skjer for å håndtere det tidlig. 
+
+## Håndtering av tidspress og "planleggingsfellen":
+En enkel felle å havne i et prosjekt er at man ikke setter av nok tid til å etablere gode planer og relasjoner innad i gruppen. Et eksempel på hvorfor dette skjer er tidspresset. Mange prosjektledere opplever at det er en mangel på tid og ressurser. Dette pluss naturen til prosjektet, med at det har et klart mål og avslutningspunkt. Som har en sterk psykologisk virkning. En som får prosjektlederen til å tenke mer på fremtiden enn nåtiden. For nåtid aktivitene vil plutselig virkes som mindre viktig. Derfor kan det være lurt å sette seg SMARTe mål, som står for Spesifikke, målbare, aksepterte, realistiske, tidsbegrensede. 
+
+Spesifikke – Klare mål som forstås av alle i gruppen 
+
+Målbare – målene kan slås fast om de er nådd eller feilet 
+
+Aksepterte – Alle i gruppen er enige med målene 
+
+Realistiske – målene er mulig å gjøre med de ressursene som er gitt og tidsrommet 
+
+Tidsbegrensede – Ha en klar tidsramme 
+
+Og ha slike konkrete mål gjør det lettere og mer motiverende til å starte på arbeidet. Selv med de klare målene er fort gjort å falle for tidspress. Tidsfristen kan få det til å føles ut som man må haste seg. Men selv med god planlegging er det lett å havne i det som kan kalles for planleggingsfellen. Det er at man har en tendens til å undervurdere tiden for prosjektet, selv etter hvor godt teamet er. En grunn for dette er hvor tidligere man er i prosjektet, desto mer usikker er man. Så i starten når man er mest usikker, er det da Erling må ta de viktigste beslutningene. Denne usikkerheten er viktig å tenke på, siden man må være obs på endringer som kan skje i senere tid. Det er hva vi kaller for planlegginsparadokset. At man må balansere tanken om å ha en god plan men også være fleksibel. For en del studier har vist at grupper som planlegger for godt, har en tendens til å ikke gi slipp på den. Men en for åpen plan igjen kan gi større problemer, hvor det mangles motivasjon og frustrasjon siden en ikke vet når ting skal være klart til. En god måte på å ha en god kurs er ved å ha direkte kommunikasjon mellom alle parter. Noen eksempler på dette kan være fysiske møter eller tekniske hjelpemidler. 
+
+Jacobsen, D. (2016), Engangsorganisasjonen (1. Utg), Fagbokforlaget
+
 ## Sikring av god kommunikasjon
 Erling bør sørge for at alle stemmer blir hørt likt. Ifølge Alex Pentland (2012) er likestilling i kommunikasjon en av de viktigste faktorene for velfungerende team, og som prosjektleder bør Erling se helhetlig på gruppen fremfor å prioritere enkeltindivider. 
 
@@ -16,3 +64,43 @@ En konkret måte Erling kan oppnå denne likestilte kommunikasjonen på, er å f
 I tverrfaglige team som Erlings kan friksjon oppstå på et psykologisk nivå. Dette blir forklart gjennom Eric Bernes transaksjonsanalyse (Gjøsund & Huseby, 2023, s. 109). Denne modellen hevder at vi kommuniserer gjennom “jeg-tilstander”. De forskjellige “jeg-tilstandene” er forelder, voksen eller barn, vi tildeler disse rollene bevisst eller ubevisst til oss selv og den vi snakker med. Problemer og konflikter kan oppstå da disse ikke stemmer overens, dette heter en krysstransaksjon. Si at en person på teamet sier “denne løsningen går ikke i det hele tatt det er slurv”. Dette kommer fra et kritisk “foreldre-jeg” og blir rettet mot teamet sitt “barne-jeg”. Hvis en på teamet svarer fra sitt “voksen-jeg” ved å for eksempel si “har du en bedre løsning da?” oppstår en krysstransaksjon som kan skape konflikt, selv om svaret er saklig. Erling bør derfor være bevisst på disse rollene og prøve å forholde seg til en voksen saklig tilstand da han kommuniserer med teamet siden dette som regel skaper minst friksjon, selv om dette ikke er en fast regel for hver situasjon. Erling bør bruke metakommunikasjon da friksjon oppstår, altså ta opp måten teamet snakker sammen for eksempel ved å si noe som “Det er viktig at vi ikke snakker nedlatende til hverandre, alle her ønsker det samme.” 
 
 For å unngå at budskap misforstås, bør Erling aktivt sikre seg for at det er rom for tilbakemelding i teamet, blant annet gjennom konstruktiv feedback. Dette henger sammen med sender-budskap-kanal-mottaker-modellen, som er nyttig for Erling å kjenne til. Et budskap kan bli tolket feil på grunn av støy, for eksempel indre støy hos mottakeren i form av tidligere erfaringer eller sensitivitet. For eksempel hvis en sikkerhetsekspert sier "denne løsningen med åpen kommentarfunksjon er en sikkerhetsrisiko" kan en annen i teamet tolke dette som at "de vil ikke at vanlige folk skal få si sin mening" selv om det aldri var meningen. Derfor bør Erling skape muligheter for spørsmål, gi rom for oppklaring, og sjekke at budskap er forstått likt av alle. 
+
+## Egenvurdering 
+
+Hensiktsmessighet og etterlevelse 
+Hensikten med gruppekontrakten er å ha noe på falle tilbake på hvis det skulle oppstå uenigheter og/eller konflikter i gruppen som ikke lar seg løse innen rimelig tid, eller som ikke lar seg løse. Den er og ment å ha en ansvarliggjørende funksjon, da den er med å avklare forventninger til hvert enkelt gruppemedlem, men og gruppens mål som en enhet. 
+
+Det ligger en forventning om at alle til enhver tid presterer etter beste evne, men at det og skal være under forutsetningen av respekt og forståelse for at livet har en tendens til å komplisere menneskers planer. Det eksisterer og en felles tolkning av kontrakten av alle medlemmer er forskjellige, med sine styrker og svakheter. Det er konsensus innad i gruppen rundt det faktum at vi ikke har måtte benytte kontrakten i praksis enda, er et sunnhetstegn. D vi innad har drøftet etterlevelse av kontrakten, har det ikke kommet frem fra noen av partene at det noen misnøye mot de andres etterlevelse. Det har derimot blitt nevnt fra flere at de føler de bidrar for lite i forhold til de andre. Dette ble temmelig kontant tilbakevist fra de resterende medlemmene i gruppen, og det fremstår på nåværende tidspunkt som om alle er fornøyde med hverandres innsats og etterlevelse 
+
+ 
+Svakheter og rom for forbedring  
+
+Gjennom å drøfte progresjonen i gruppen så lang, har vi kommet frem til at en mulig svakhet er at kontrakten ble skrevet på et svakt generelt teoretisk grunnlag. Da de individuelle medlemmene ikke hadde kjennskap til hverandres styrker og svakheter gjøres alt på et rent teoretisk. 
+Det nevnes og at et sted med rom for forbedring, vil være å få inn en enda bedre rutine på booking av grupperom, samt avtale tidspunkt for gruppemøte kan gjøres noe tidligere. Merk at dette ikke oppleves som en stor utfordring, men et punkt med rom for forbedring.  
+
+
+Erfaring og råd for fremtidig prosjektarbeid.  
+
+Det oppstod innledningsvis en utfordring med et gruppemedlem som ikke var tilgjengelig, bidro, eller var sikker på om hen skulle studere videre. Da dette var i fasen der kontraktens innhold skulle ferdigstilles, opplevdes det som et hinder at det ene gruppemedlemmet ikke kommuniserte. Utfordringen ble forsøkt løst på lavest mulig nivå, og det opplevedes som om resten av gruppen var ytterst løsningsorienterte. Da det ikke gav noen resultater, måtte saken eskaleres, og det endte med at vi ble et medlem mindre.  Dette kan antas og ha hatt en samlende effekt på gruppen som vi tar med oss videre.
+
+## Referanse
+
+Scrum Alliance (n.d). Signs of conflict within an agile team. Hentet 24. september 2026. https://resources.scrumalliance.org/Article/signs-of-conflict-within-an-agile-team 
+
+Vain, C. (2025, 25. Februar). Preventing conflicts before they escalate. CDP Online College. https://cpdonline.co.uk/knowledge-base/business/preventing-conflicts/ 
+
+Hårberg, G.B., & Paulsen, T.M. (2026, 27.april) Modeller for konflikthåndtering. NDLA. https://ndla.no/nb/r/kommunikasjon-og-samhandling-hs-hsf-vg1/modeller-for-konflikthandtering/0d74ec1ef5
+
+Børtnes, T. (2014, 14.juli). Megling – En effektiv metode. Arbeidsmiljø.no. https://www.arbeidsmiljo.no/artikler/megling-en-effektiv-metode/ 
+
+Pentland, A. (2012). The new science of building great teams. Harvard Business Review, 90(4), 60–69.
+
+Gjøsund, P, & Huseby, R. (2023). To eller flere... Basiskunnskaper i gruppepsykologi (4. utg.). Cappelen damm akademisk
+
+Jacobsen, D. (2016), Engangsorganisasjonen (1. Utg), Fagbokforlaget
+
+Helsedirektoratet (2025, 4.Desember) Relasjonskontrakter – hva, hvorfor, når og hvordan?  https://www.helsedirektoratet.no/rapporter/formelle-relasjonskontrakter-ved-anskaffelse-av-e-helselosninger/relasjonskontrakter--hva-hvorfor-nar-og-hvordan 
+
+Rolstadås, Å. (2025, 30.juni). Prosjektplanlegging. Store norske leksikon. https://snl.no/prosjektplanlegging 
+
+Jacobsen, D. (2016), Engangsorganisasjonen (1. Utg), Fagbokforlaget 
